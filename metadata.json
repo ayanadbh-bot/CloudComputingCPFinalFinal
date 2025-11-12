@@ -1,0 +1,5 @@
+{
+  "name": "MyStudyHub",
+  "description": "A personal study cockpit to organize, view, and interact with all your learning resources in one place. This application provides a multi-pane interface for viewing documents, videos, and notes simultaneously, all managed through a familiar file-directory structure.",
+  "requestFramePermissions": []
+}
